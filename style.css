@@ -1,0 +1,31 @@
+.eat-healthy-area{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+    }
+.blue-color{
+    color: blue;
+}  
+.heading{
+    font-size: 50px;
+    font-weight: bold;
+} 
+.button{
+    background-image: linear-gradient(lightblue, blue);
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+} 
+#diet-part{
+    margin-left: 80px;
+}
