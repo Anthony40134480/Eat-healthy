@@ -1,5 +1,6 @@
-.eat-healthy-area{
+.flexible-area{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -28,4 +29,24 @@ body{
 } 
 #diet-part{
     margin-left: 80px;
+}
+#font-bold{
+    font-size: 40px;
+    font-weight: bold;
+}
+.width-set{
+    width: 500px;
+    text-align: justify;
+    margin-bottom: 80px;
+}
+.img-position img{
+    margin-left: 70px;
+}
+.down-margin{
+    margin-bottom: 60px;
+}
+.about-me{
+    background-image: url(eat-healthy-main/images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
