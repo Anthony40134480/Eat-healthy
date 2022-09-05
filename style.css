@@ -30,7 +30,7 @@ body{
 #diet-part{
     margin-left: 80px;
 }
-#font-bold{
+.font-bold{
     font-size: 40px;
     font-weight: bold;
 }
@@ -49,4 +49,40 @@ body{
     background-image: url(eat-healthy-main/images/shapes/Frame\ 56.jpg);
     background-repeat: no-repeat;
     background-position: right;
+}
+.text-align{
+    text-align: center;
+}
+.My-recipies-area img{
+    width: 50%;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.box-recipie{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    padding: 0 10px 0 10px;
+    margin: 20px 40px;
+}
+.three-width{
+    width: 25%;
+    padding-left: 150px;
+}
+.subscribe-area{
+    display: flex; 
+    padding-bottom: 50px; 
+    margin-bottom: 90px;
+}
+.blue-color{
+    color: blue;
+}
+.orange{
+    color: orange;
+}
+.eat-fresh-area{
+    background-color: black;
+    padding-bottom: 50px;
+}
+.white{
+    color: white;
 }
